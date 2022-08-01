@@ -1,0 +1,23 @@
+.bottom-container{
+    background-color: azure;
+    text-align: center;
+    padding: 10px;
+}
+.bottom-container a{
+    color: green;
+    text-decoration: none;
+    margin: 20px;
+}
+.bottom-container p{
+    color: rgb(65, 66, 65);
+    text-decoration: none;
+    margin: 20px;
+    opacity: 50%;
+}
+.bottom-container a:hover{
+    color: tomato;
+}
+.bottom-container p:hover{
+    color: tomato;
+    opacity: 100%;
+}

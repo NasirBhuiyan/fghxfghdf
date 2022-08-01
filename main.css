@@ -1,0 +1,103 @@
+#personal-section{
+
+}
+.contant{
+margin: 10px;
+}
+.left-div{
+width: 30%;
+float: left;
+}
+.right-div{
+width: 70%;
+float: left;
+}
+h5{
+    float: left;
+    width: 25%;
+}
+.personal-p{
+    float: left;
+    width: 50%;
+}
+.EDU-1{
+    float: left;
+    width: 25%;
+    margin: 2px auto;
+}
+.EDU-2{
+    float: left;
+    width: 25%;
+    margin: 2px auto;
+}
+.EDU-3{
+    float: left;
+    width: 25%;
+    margin: 2px auto;
+   
+}
+.EDU-4{
+    float: left;
+    width: 25%;
+    margin: 2px auto;
+    
+}
+.EDU{
+    float: left;
+}
+.edu-p{
+    float: left;
+    padding: px;
+}
+.edu{
+    font-weight: bold;
+}
+#Skil-section{
+
+}
+.skil-lef{
+    float: left;
+    width: 50%;
+   
+}
+.skil-Right{
+    float: left;
+    width: 50%;
+    m
+    
+}
+.Skil-p{
+    font-weight: bold;
+   
+}
+#Work-section{
+
+}
+.work-lef{
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
+.work-lef{
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
+#Ref-section{
+
+}
+.reff-sec{
+    
+}
+.Name-reff{
+    font-weight: bold;
+}
+.reff-info a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.reff-info a:hover{
+    text-decoration: none;
+  color: tomato;
+}
